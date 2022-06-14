@@ -2,7 +2,7 @@
 <a href="#"><img width="65%" height="65%" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejaswi Sharma</h1>
+<h1 align="center">Hi 👋 I'm Tejaswi Sharma</h1>
 <h3 align="center">I'm passionate for Salesforce and Flutter App development <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
