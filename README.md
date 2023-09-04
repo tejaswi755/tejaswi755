@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Tejaswi Sharma</h1>
-<h3 align="center">I'm passionate for Salesforce and Flutter App development <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
+<h3 align="center">I'm passionate for Salesforce  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ChatApp](https://github.com/tejaswi755/Chat-App)**
 
 - 🌱 I’m currently learning **Flutter and Salesforce**
 
