@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Flutter and Salesforce**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👯 I’m an openSource enthusiast looking to collaborate on **OpenSource Projects**
 
